@@ -2,9 +2,9 @@
 - 👀 I’m interested in creating beautiful experiences through website design
 - 🌱 I’m currently learning how to grow as a developer
 - 💞️ I’m looking to collaborate on cool and challenging projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me henry.s.nunez@gmail.com
+- 😄 Pronouns: I/am/him
+- ⚡ Fun fact: I love to run long distance, soduku, and solving puzzles
 
 <!---
 henrythedev90/henrythedev90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
