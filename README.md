@@ -5,6 +5,7 @@
 - 📫 How to reach me henry.s.nunez@gmail.com
 - 😄 Pronouns: I/am/him
 - ⚡ Fun fact: I love to run long distance, soduku, and solving puzzles
+- Please visit my site https://www.henry-nunez.com
 
 <!---
 henrythedev90/henrythedev90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
