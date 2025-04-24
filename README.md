@@ -6,7 +6,7 @@
 
 \- 🌱 I'm currently expanding my expertise in back-end development with Node.js and Express, and deepening my understanding of database systems like PostgreSQL.
 
-\- 💞️ I'm looking to collaborate on challenging full-stack web development projects that utilize modern JavaScript frameworks and RESTful APIs.
+\- 👨🏾‍💻 I'm looking to collaborate on challenging full-stack web development projects that utilize modern JavaScript frameworks and RESTful APIs.
 
 \- 📫 You can reach me at henry.s.nunez@gmail.com
 
