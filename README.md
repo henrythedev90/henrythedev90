@@ -8,7 +8,7 @@
 
 \- 👨🏾‍💻 I'm looking to collaborate on challenging full-stack web development projects that utilize modern JavaScript frameworks and RESTful APIs.
 
-\- 📫 You can reach me at henry.s.nunez@gmail.com
+\- 📫 You can reach me at henrythedev90@gmail.com
 
 \- 😄 Pronouns: He/Him
 
